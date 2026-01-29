@@ -1,0 +1,6 @@
+{
+  "name": "Startup-Partnership-Platform",
+  "version": "1.0.0",
+  "description": "Backend for startup partnership platform",
+  "main": "src/server.js"
+}
