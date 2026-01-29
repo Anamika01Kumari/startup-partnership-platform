@@ -1,0 +1,1 @@
+# startup-partnership-platform
